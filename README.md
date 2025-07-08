@@ -6,10 +6,11 @@ This repository contains my completed solutions for **Level 3** of the **Codveda
 
 ## 📊 Task 1 – Time Series Forecasting (Stock Prices)
 
-- Forecasted stock prices using historical data
+- Forecasted stock prices using historical data from a CSV file
 - Used **ARIMA** model for prediction
 - Evaluated using **RMSE**
 - Visualized trend, seasonality, and forecast
+- Dataset used: `Stock Prices Data Set.csv`
 
 ---
 
@@ -38,6 +39,7 @@ This repository contains my completed solutions for **Level 3** of the **Codveda
 - `TASK 1.ipynb`
 - `TASK 2.ipynb`
 - `TASK 3.ipynb`
+- `Stock Prices Data Set.csv`
 - `README.md`
 
 ---
@@ -55,5 +57,4 @@ You can open and run these notebooks directly on [Google Colab](https://colab.re
 
 **Hemanth Bharadwaj NR**  
 Codveda Data Science Intern – Level 3  
-July 2025  
-
+July 2025
